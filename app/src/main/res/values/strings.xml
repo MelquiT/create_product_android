@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">T2_TapiaDavila</string>
+    <string name="NdescProducto">Descripción Producto</string>
+    <string name="NprecVenta">Precio Venta</string>
+    <string name="NpreCompra">Precio Compra</string>
+    <string name="Nstock">Stock</string>
+</resources>
